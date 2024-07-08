@@ -27,32 +27,32 @@
 
 # Output
 
-Gloom Безымянный из команды желтых вступает в бой!
-Alomomola Безымянный из команды черных вступает в бой!
-Alomomola Безымянный Double Slap. 
-Gloom Безымянный теряет 4 здоровья.
-Alomomola Безымянный Double Slap. 
-Gloom Безымянный теряет 2 здоровья.
-Alomomola Безымянный Double Slap. 
-Gloom Безымянный теряет 4 здоровья.
-Alomomola Безымянный Double Slap. 
-Gloom Безымянный теряет 3 здоровья.
-Gloom Безымянный теряет сознание.
-Bellossom Безымянный из команды желтых вступает в бой!
-Alomomola Безымянный промахивается
-Alomomola Безымянный промахивается
-Alomomola Безымянный Double Slap. 
-Bellossom Безымянный теряет 3 здоровья.
-Alomomola Безымянный Double Slap. 
-Bellossom Безымянный теряет 4 здоровья.
+~Gloom Безымянный из команды желтых вступает в бой!
+~Alomomola Безымянный из команды черных вступает в бой!
+~Alomomola Безымянный Double Slap. 
+~Gloom Безымянный теряет 4 здоровья.
+~Alomomola Безымянный Double Slap. 
+~Gloom Безымянный теряет 2 здоровья.
+~Alomomola Безымянный Double Slap. 
+~Gloom Безымянный теряет 4 здоровья.
+~Alomomola Безымянный Double Slap. 
+~Gloom Безымянный теряет 3 здоровья.
+~Gloom Безымянный теряет сознание.
+~Bellossom Безымянный из команды желтых вступает в бой!
+~Alomomola Безымянный промахивается
+~Alomomola Безымянный промахивается
+~Alomomola Безымянный Double Slap. 
+~Bellossom Безымянный теряет 3 здоровья.
+~Alomomola Безымянный Double Slap. 
+~Bellossom Безымянный теряет 4 здоровья.
 
-Bellossom Безымянный Mega Drain. 
-Alomomola Безымянный теряет 16 здоровья.
-Bellossom Безымянный восстанавливает 8 здоровья.
-Alomomola Безымянный теряет сознание.
-Octillery Безымянный из команды черных вступает в бой!
-Octillery Безымянный Psychic. 
-Bellossom Безымянный теряет 5 здоровья.
+~Bellossom Безымянный Mega Drain. 
+~Alomomola Безымянный теряет 16 здоровья.
+~Bellossom Безымянный восстанавливает 8 здоровья.
+~Alomomola Безымянный теряет сознание.
+~Octillery Безымянный из команды черных вступает в бой!
+~Octillery Безымянный Psychic. 
+~Bellossom Безымянный теряет 5 здоровья.
 
 Bellossom Безымянный Mega Drain. 
 Octillery Безымянный теряет 15 здоровья.
